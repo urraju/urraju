@@ -10,9 +10,11 @@ Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
 - 🔭 I’m currently working on Freelancing 
 - 🌱 I’m currently learning JavaScript With React 
 
+<hr>
 <p align="center">
- <a href="https://github.com/urraju"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=urraju&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="56.0%  /></a>
+ <a href="https://github.com/urraju"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=urraju&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="40.0%  /></a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/urraju">
@@ -21,14 +23,14 @@ Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
 </p>
 
 
-<div style="display: flex;  justify-content: center; ">
+<div >
 
   <a href="https://github.com/urraju">
-    <img alt="urraju" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=urraju&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=7F3FBF"   />
+    <img alt="urraju" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=urraju&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=7F3FBF" width="49.0%  />
   </a>
 
   <a href="https://github.com/urraju">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=urraju&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=urraju&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"  width="49.0% />
   </a>
  
 
