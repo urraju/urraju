@@ -1,11 +1,12 @@
 ![Web Developer](https://i.ibb.co/p4Z13Yj/banner-design.png)
-### Hi, I'AM Riad Hasan Raju 
-#### Web Developer
+### Hi, I'AM Riad Hasan Raju
+### Front End Developer
+## <h1>About Me</h1>
  
-
-Hey I'm a front end web developer. 
-
-Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
+ - I am Riyad Hasan Raju. I am interested in working with Front end, I am learning for about 9-10 months and  I want to work with front end to grow my skill and I am very interested because I can design very well and also like to learn full stack so I am learning.
+ 
+ 
+### Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
 
 - 🔭 I’m currently working on Front End Development 
 - 🌱 I’m currently learning JavaScript With React 
