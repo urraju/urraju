@@ -7,7 +7,7 @@ Hey I'm a front end web developer.
 
 Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
 
-- 🔭 I’m currently working on Freelancing 
+- 🔭 I’m currently working on Front End Development 
 - 🌱 I’m currently learning JavaScript With React 
 
 <hr>
@@ -36,7 +36,8 @@ Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
 
 </div>
 
-<h4> Connect with me🤝: <h4>
+<hr>
+<h4 > Connect with me🤝: <h4>
  <a href="https://www.instagram.com/urrajuahmed_/">
     <img align="left" alt="Rony Ahmed | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
