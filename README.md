@@ -28,12 +28,13 @@
   </a>
 
 </p>
- <h1>About Me</h1>
+ <h2>What I work With</h2>
  
- - I am Riyad Hasan Raju. I am interested in working with Front end, I am learning for about 9-10 months and  I want to work with front end to grow my skill and I am very interested because I can design very well and also like to learn full stack so I am learning.
+ - I am Riyad Hasan Raju. I am interested in working with Front end, I am learning for about  1 year  and  I want to work with front end to grow my skill and I am very interested because I can design very well and also like to learn full stack so I am learning.
  
- 
-### My Skills:   
+ <br/>
+<h3>My Skills</h3>  
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
