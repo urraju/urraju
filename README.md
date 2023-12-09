@@ -8,7 +8,7 @@
 
   
  <h3 align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learn+Mern+Stack+Developer;Frontend+Developer;&center=true&width=500&height=50"></a>
 </h3>
 <p align="center">
  <a href="[#website](https://assignmant-12.web.app/)" target="blank">
@@ -33,20 +33,21 @@
  - I am Riyad Hasan Raju. I am interested in working with Front end, I am learning for about  1 year  and  I want to work with front end to grow my skill and I am very interested because I can design very well and also like to learn full stack so I am learning.
  
  <br/>
-<h3>My Skills</h3>  
+<h3>My Skills:</h3>  
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](https://expressjs.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
-[![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&labelColor=black&logo=axios&logoColor=007ACC)](https://axios-http.com/)
-[![TensorFlow](https://img.shields.io/badge/TanStack-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](https://www.tanstack.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=black&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&labelColor=black&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&labelColor=black&logo=node.js&logoColor=43853D)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&labelColor=black&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat&labelColor=black&logo=express&logoColor=white)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&labelColor=black&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+[![Axios](https://img.shields.io/badge/Axios-007ACC?style=flat&labelColor=black&logo=axios&logoColor=007ACC)](https://axios-http.com/)
+[![TenStack](https://img.shields.io/badge/TanStack-FF6F00?style=flat&labelColor=black&logo=tensorflow&logoColor=FF6F00)](https://www.tanstack.com/)
+
 
 
 <h3>Little facts about me 🧑</h3>
