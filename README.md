@@ -10,8 +10,9 @@
  <h3 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Learn+Mern+Stack+Developer;Frontend+Developer;&center=true&width=500&height=50"></a>
 </h3>
+<p align="center">I always try to improve myself. I have worked hard in my development <br/> career and will continue to do so.</p>
 <p align="center">
- <a href="[#website](https://assignmant-12.web.app/)" target="blank">
+ <a href="https://assignmant-12.web.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=flat-square&logo=medium&logoColor=white" alt="urraju" />
  </a>
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
@@ -52,8 +53,6 @@
 
 <h3>Little facts about me 🧑</h3>
 
-- 🔭 I’m currently working on Front End Development 
-- 🌱 I’m currently learning JavaScript With React
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on MERN Stack for Frontend Web Development.
 - 👯 I’m looking to collaborate on  Front End projects.
