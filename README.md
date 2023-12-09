@@ -4,9 +4,36 @@
 ## <h1>About Me</h1>
  
  - I am Riyad Hasan Raju. I am interested in working with Front end, I am learning for about 9-10 months and  I want to work with front end to grow my skill and I am very interested because I can design very well and also like to learn full stack so I am learning.
+ - 
+ ## My Worker Tools : 
+ <h6>
+
+- **Frontend Development:** [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+
+- **Backend Development:** [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](https://expressjs.com/)
+
+- **Databases:** [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+
+- **Cloud Technologies:** [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+
+- **HTTP Requests:** [![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&labelColor=black&logo=axios&logoColor=007ACC)](https://axios-http.com/)
+
+- **Machine Learning:** [![TensorFlow](https://img.shields.io/badge/TanStack-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](https://www.tanstack.com/)
+
+ </h6>
  
- 
-### Skills:  REACT / JS / HTML / CSS / JavaScript / Tailwind / Bootstrap
+### My Skills:   
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+[![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&labelColor=black&logo=axios&logoColor=007ACC)](https://axios-http.com/)
+[![TensorFlow](https://img.shields.io/badge/TanStack-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](https://www.tanstack.com/)
+
+
 
 - 🔭 I’m currently working on Front End Development 
 - 🌱 I’m currently learning JavaScript With React 
