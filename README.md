@@ -1,9 +1,9 @@
 ![Web Developer](https://i.ibb.co/p4Z13Yj/banner-design.png)
 
- <h3 align="center">Hi ,<a href="#wave" target="_blank">
+ <h2 align="center">Hi ,<a href="#wave" target="_blank">
     <img src="https://img.shields.io/badge/ 👋-black?style=flat-square"  />
   </a>
- I'm Riad Hasan Raju  </h3>
+ I'm Riad Hasan Raju  </h2>
 
 
   
@@ -35,6 +35,9 @@
  
 ### My Skills:   
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](https://nodejs.org/)
@@ -45,14 +48,21 @@
 [![TensorFlow](https://img.shields.io/badge/TanStack-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)](https://www.tanstack.com/)
 
 
+<h3>Little facts about me 🧑</h3>
 
 - 🔭 I’m currently working on Front End Development 
-- 🌱 I’m currently learning JavaScript With React 
+- 🌱 I’m currently learning JavaScript With React
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on MERN Stack for Frontend Web Development.
+- 👯 I’m looking to collaborate on  Front End projects.
+- 💡 Contributing to Open Source Projects is always a goal for me.
+- ⚡ Fun fact: I love sports, especially Football with Traveling.
 
 <hr>
 <p align="center">
  <a href="https://github.com/urraju"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=urraju&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="46.0%  /></a>
 </p>
+
 
 
 <p align="center">
@@ -62,8 +72,6 @@
 </p>
 
 
-<div >
-
   <a href="https://github.com/urraju">
     <img alt="urraju" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=urraju&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=7F3FBF" width="49.0%  />
   </a>
@@ -72,11 +80,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=urraju&theme=midnight-purple&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"  width="49.0% />
   </a>
  
-</div>
+ <br/>
  
-
-<h4> Connect with me🤝: </h4>
-<br/>
+ 
 <a href="https://www.instagram.com/urrajuahmed_/">
   <img align="left" alt="Riad Raju| Instagram" width="20px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
@@ -95,5 +101,5 @@
 
  <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/urraju">Riad Raju</a></p>
+<p align="right" ><a href="https://github.com/urraju"></a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=urraju&label=Profile%20views&color=0e75b6&style=flat" alt="urraju" /> </p>
